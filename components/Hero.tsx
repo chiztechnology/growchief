@@ -5,7 +5,7 @@ import React from "react";
 const Hero = () => {
     return (
         <div className="w-full flex items-center justify-center flex-col md:flex-row font-sans">
-            <div>
+            <div className="ml-2 md:ml-0 mr-2 md:mr-0">
                 {/* no more wasted time */}
                 <div className="flex items-center">
                     <div className="flex items-center justify-center rounded-full w-10 h-10 bg-[#FFFFFF0D] border-2 border-[#FFFFFF0D]">
@@ -21,8 +21,8 @@ const Hero = () => {
                     </div>
                 </div>
                 {/* title */}
-                <h1 className="text-6xl text-[#ffffff] font-extrabold">Devtools<br /><span className="text-[#9D68F5]">Launch Weeks</span></h1>
-                <p className="w-[460px] font-sans text-white font-light">We do a whole week of launch around your prouct, including an article, Reddit promotion, influencers posts, and so much more</p>
+                <h1 className="text-6xl font-bold md:font-extrabold text-[#ffffff]">Devtools<br /><span className="text-[#9D68F5]">Launch Weeks</span></h1>
+                <p className="w:4/4 md:w-[460px] font-sans text-white font-light">We do a whole week of launch around your prouct, including an article, Reddit promotion, influencers posts, and so much more</p>
                 {/* cta */}
                 <div className="mt-6 flex items-center">
                     <Link href=''>
