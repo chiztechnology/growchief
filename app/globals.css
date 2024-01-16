@@ -20,6 +20,10 @@ body {
   background: url('/glow.png') no-repeat top left, url('/Vector 6.png') no-repeat top right, #0d0d12;
 }
 
+.testimonial-container {
+  background: url('/Group 1.png') no-repeat top left, url('/Group 2.png') no-repeat top right, #0d0d12;
+}
+
 .scrollable-container {
   /* width: 100%; Adjust the width as needed */
   overflow-x: auto; /* Enable horizontal scrolling */

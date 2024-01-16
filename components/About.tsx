@@ -4,7 +4,7 @@ import React from "react";
 const About = () => {
 
     return (
-        <div className="flex flex-col items-center font-sans p-2 blury-corners">
+        <div className="flex flex-col items-center font-sans p-2 blury-corners pb-12">
             <div className="mt-8">
                 <h3 className="text-[#9D68F5]">WHAT'S GROWCHIEF</h3>
                 <p className="text-4xl font-medium text-slate-300 w-4/5 md:w-[860px]">We specialize in human-centered design where technology serves humanity, not the other way around.</p>
