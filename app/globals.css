@@ -16,6 +16,12 @@ body {
   background: url('/Mask group (1).png') no-repeat top left;
 }
 
+.scrollable-container {
+  /* width: 100%; Adjust the width as needed */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  overflow-x: hidden; /* Hide the horizontal scrollbar */
+  white-space: nowrap; /* Prevent text from wrapping */
+}
 
 
 /* @media (prefers-color-scheme: dark) {
