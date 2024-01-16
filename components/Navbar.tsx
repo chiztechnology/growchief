@@ -6,7 +6,7 @@ import React from "react";
 const Navbar = () => {
 
     return (
-        <div className="bg-gradient-to-r from-gray-300 via-violet-500 to-gray-500 w-4/4 m-8 rounded-2xl p-0.5">
+        <div className="bg-gradient-to-r from-gray-300 via-violet-500 to-gray-500 w-4/4 m-8 rounded-2xl p-[1px]">
             <div className="w-full h-full p-2 rounded-2xl flex justify-between flex-col items-center bg-[#0d0d12] ">
                 {/* HEAD title responsive elements */}
                 <div className="flex items-center justify-between w-full">

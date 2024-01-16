@@ -12,6 +12,12 @@ body {
   background: url('/grid.png') repeat fixed,linear-gradient(#0d0d12, #181228) no-repeat fixed;
 }
 
+.light-cube {
+  background: url('/Mask group (1).png') no-repeat top left;
+}
+
+
+
 /* @media (prefers-color-scheme: dark) {
   :root {
     --foreground-rgb: 255, 255, 255;
