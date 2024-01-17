@@ -1,4 +1,5 @@
 import About from '@/components/About'
+import Benefit from '@/components/Benefit'
 import Hero from '@/components/Hero'
 import Testimonial from '@/components/Testimonial'
 import TrustedBy from '@/components/TrustedBy'
@@ -11,6 +12,7 @@ export default function Home() {
       <TrustedBy/>
       <About/>
       <Testimonial/>
+      <Benefit/>
     </div>
   )
 }
