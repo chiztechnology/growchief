@@ -12,13 +12,13 @@ const Footer = () => {
                     <div>
                         <h3 className="text-xl font-bold">Page</h3>
                         {['Home', 'Pricing', 'Blog'].map((elt => (
-                            <h4 className="mt-4">{elt}</h4>
+                            <h4 key={elt} className="mt-4">{elt}</h4>
                         )))}
                     </div>
                     <div className="ml-8">
                         <h3 className="text-xl font-bold">Resources</h3>
                         {['Book a Call', 'Term of Use', 'Privacy Policy'].map((elt => (
-                            <h4 className="mt-4">{elt}</h4>
+                            <h4 key={elt} className="mt-4">{elt}</h4>
                         )))}
                     </div>
                 </div>
@@ -26,7 +26,7 @@ const Footer = () => {
                 <div className="flex mt-6 md:mt-0">
 
                     {['/Social icon.png', '/Social icon (1).png', '/Social icon (2).png'].map(elt => (
-                        <Link href={'#'} className="m-2">
+                        <Link href={'#'} className="m-2" key={elt}>
                             <Image
                                 src={elt}
                                 height={24}
