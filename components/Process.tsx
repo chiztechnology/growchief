@@ -11,7 +11,7 @@ const Process = () => {
                 <h3 className="text-[#9D68F5]">OUR PROCESS</h3>
                 <p className="text-3xl font-bold text-slate-300">How We Work</p>
             </div>
-            <div className="flex flex-col items-center justify-center]">
+            <div className="flex flex-col items-center justify-center p-4">
                 {/* cards */}
                 <div className="flex flex-col md:flex-row  justify center items-center p-4 md:h-[324px]">
                     <div className="w-full md:w-[477px]">

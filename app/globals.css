@@ -72,6 +72,10 @@ body {
   background: url('/img.png') no-repeat right,url('/dots (1).png') no-repeat left bottom,url('/blur.png') no-repeat center, #0d0d12;
 }
 
+.footer-bg {
+  background: url('/Mask group (4).png') no-repeat top right;
+}
+
 .scrollable-container {
   /* width: 100%; Adjust the width as needed */
   overflow-x: auto; /* Enable horizontal scrolling */

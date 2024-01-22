@@ -21,8 +21,8 @@ const Hero = () => {
                     </div>
                 </div>
                 {/* title */}
-                <h1 className="text-6xl font-bold md:font-extrabold text-[#ffffff]">Devtools<br /><span className="text-[#9D68F5]">Launch Weeks</span></h1>
-                <p className="w:4/4 md:w-[460px] font-sans text-white font-light">We do a whole week of launch around your prouct, including an article, Reddit promotion, influencers posts, and so much more</p>
+                <h1 className="text-7xl md:text-6xl font-bold md:font-extrabold text-[#ffffff]">Devtools<br /><span className="text-[#9D68F5]">Launch Weeks</span></h1>
+                <p className="w:4/4 md:w-[460px] text-2xl font-light mt-4 md:mt-0 ml-2 md:ml-0  font-sans text-white">We do a whole week of launch around your prouct, including an article, Reddit promotion, influencers posts, and so much more</p>
                 {/* cta */}
                 <div className="mt-6 flex items-center">
                     <Link href=''>
