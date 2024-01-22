@@ -38,6 +38,16 @@ body {
   background-size: stretch;
 }
 
+.benefit-three {
+  background: url('/star-bg get from 0 to 1.png') no-repeat bottom, #0d0d12;
+  background-size: stretch;
+}
+
+.benefit-four {
+  background: url('/bg stay on developers mind.png') no-repeat bottom, #0d0d12;
+  background-size: stretch;
+}
+
 
 .scrollable-container {
   /* width: 100%; Adjust the width as needed */

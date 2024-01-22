@@ -25,6 +25,21 @@ const Benefit = () => {
                     </article>
                 </div>
 
+                <div className='w-4/4 md:w-[453px] rounded-xl  bg-gradient-to-r from-gray-700 via-violet-900 to-gray-700 p-0.5 md:m-4'>
+                    <article className='p-4 h-[422px] w-full rounded-xl benefit-three bg-[#000000]'>
+                        <h3 className="text-2xl font-regular text-slate-400 mt-4">Get from 0 to 1</h3>
+                        <p className="mt-4 mb-4 text-slate-200 font-sans font-light">From strategizing your optimal UX, to building a flexible back-end that syncs with your internal ops, our goal is beautifully fluid</p>
+                    </article>
+                </div>
+
+                <div className='w-4/4 md:w-[629px] rounded-xl  bg-gradient-to-r from-gray-700 via-violet-900 to-gray-700 p-0.5 md:m-4'>
+                    <article className='p-4 h-[422px] w-full rounded-xl benefit-four bg-[#000000]'>
+                        <h3 className="text-2xl font-regular text-slate-400 mt-4">Stay on Developers Mind</h3>
+                        <p className="mt-4 mb-4 text-slate-200 font-sans font-light">From strategizing your optimal UX, to building a flexible back-end that syncs with your internal ops, our goal is beautifully fluid and flawlessly functional websites that solve the right problems—and look really good while they do it.</p>
+                    </article>
+                </div>
+
+
 
             </div>
         </div>
