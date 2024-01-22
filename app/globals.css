@@ -52,6 +52,21 @@ body {
   background-size: stretch;
 }
 
+.pricing-bg {
+  background: url('/explosive growth gb.png') no-repeat bottom, #0d0d12;
+}
+
+.pricing-table {
+  background: url('/Vector 81.png') no-repeat bottom, rgb(21, 21, 22);
+}
+
+.separator {
+  opacity: .2;
+}
+
+.customButton:hover {
+  cursor: pointer;
+}
 
 .scrollable-container {
   /* width: 100%; Adjust the width as needed */
