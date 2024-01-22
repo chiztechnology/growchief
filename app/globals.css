@@ -28,6 +28,10 @@ body {
   background: url('/Group 4.png') no-repeat top left, #0d0d12;
 }
 
+.process-container {
+  background: url('/Group 6 (1).png') no-repeat top left, url('/Group 5 (1).png') no-repeat top right, #0d0d12;
+}
+
 .benefit-one {
   background: url('/benefit-bg-1.png') no-repeat bottom, #0d0d12;
   background-size: stretch;

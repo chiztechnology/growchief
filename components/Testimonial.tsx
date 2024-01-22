@@ -7,7 +7,7 @@ const Testimonial = () => {
 
     return (
         <div className="testimonial-container flex items-center justify-center flex-wrap">
-            <div>
+            <div className="flex flex-col items-center">
                 <h3 className="text-[#9D68F5]">TESTIMONIALS</h3>
                 <p className="text-3xl font-bold text-slate-300">What our<br />clients say</p>
             </div>
