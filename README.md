@@ -18,6 +18,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
+- [🚀 Go Live](#live)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -125,6 +126,11 @@ npm start
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Go Live <a name="live"></a>
+
+- Check the live version of Growchief [here](https://growchief.onrender.com/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>
 
