@@ -14,7 +14,7 @@ const Testimonial = () => {
             <div className="flex flex-col md:flex-row items-center justify-center mt-12 mb-12">
                 {/* cards */}
                 {Clients.map((client) => (
-                    <div key={client.id} className="rounded-xl mr-2 bg-gradient-to-r from-gray-700 via-violet-900 to-gray-700 p-0.5 m-2 w-full md:w-[420px]">
+                    <div key={client.id} className="rounded-xl mr-2 bg-gradient-to-r from-gray-700 via-violet-900 to-gray-700 p-0.5 m-2 w-[80%] md:w-[420px]">
                         <div className="w-full flex flex-col  p-4 bg-[#13131a] rounded-xl mr-2">
                             {/* card header */}
                             <div className="flex">

@@ -5,7 +5,7 @@ import React from "react";
 const Hero = () => {
     return (
         <div className="w-full flex items-center justify-center flex-col md:flex-row font-sans">
-            <div className="ml-2 md:ml-0 mr-2 md:mr-0">
+            <div className="ml-8 mt-12 md:mt-2 md:ml-0 mr-2 md:mr-0">
                 {/* no more wasted time */}
                 <div className="flex items-center">
                     <div className="flex items-center justify-center rounded-full w-10 h-10 bg-[#FFFFFF0D] border-2 border-[#FFFFFF0D]">

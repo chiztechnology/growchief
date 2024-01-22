@@ -68,6 +68,10 @@ body {
   cursor: pointer;
 }
 
+.cta-bg {
+  background: url('/img.png') no-repeat right,url('/dots (1).png') no-repeat left bottom,url('/blur.png') no-repeat center, #0d0d12;
+}
+
 .scrollable-container {
   /* width: 100%; Adjust the width as needed */
   overflow-x: auto; /* Enable horizontal scrolling */

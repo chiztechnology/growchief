@@ -1,5 +1,6 @@
 import About from '@/components/About'
 import Benefit from '@/components/Benefit'
+import Cta from '@/components/Cta'
 import Hero from '@/components/Hero'
 import Pricing from '@/components/Pricing'
 import Process from '@/components/Process'
@@ -17,6 +18,7 @@ export default function Home() {
       <Benefit/>
       <Process/>
       <Pricing />
+      <Cta/>
     </div>
   )
 }
